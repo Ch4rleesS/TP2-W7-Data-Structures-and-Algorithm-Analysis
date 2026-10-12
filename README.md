@@ -12,7 +12,7 @@ Implementasi struktur data dasar menggunakan **Java**:
 ```
 Personal assigment 2/
 ├── README.md
-├── TP2-W7-S15-R1.doc                       # Soal tugas
+├── TP2-W7-S15-R1.doc                       # Soal & jawaban tugas
 ├
 │
 ├── Java soal 1/
