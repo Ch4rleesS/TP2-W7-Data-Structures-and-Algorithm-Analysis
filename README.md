@@ -13,23 +13,23 @@ Implementasi struktur data dasar menggunakan **Java**:
 Personal assigment 2/
 ├── README.md
 ├── TP2-W7-S15-R1.doc                       # Soal tugas
-├── Jawaban_TP2-W7-S15-R1.docx              # Jawaban tugas
+├
 │
-├── Java soal 1/                            # SOAL 1 — Single Linked List
-│   ├── Main.java                           # Menu interaktif (CRUD buku)
-│   ├── LinkedList.java                     # Operasi push / pop / cari / tampil
-│   ├── Node.java                           # Node (kodeBuku, judul, penulis)
+├── Java soal 1/
+│   ├── Main.java
+│   ├── LinkedList.java
+│   ├── Node.java
 │   └── Screenshot hasil/
 │       └── Screenshot hasil.png            # Bukti eksekusi soal 1
 │
 └── Java Soal 2/                            # SOAL 2 — Queue + Stack
-    ├── Main.java                           # Menu interaktif (sistem kasir)
-    ├── Queue.java                          # Antrian pelanggan (FIFO)
-    ├── Stack.java                          # Riwayat transaksi (LIFO)
-    ├── Node.java                           # Node (kode, nama, total)
+    ├── Main.java
+    ├── Queue.java
+    ├── Stack.java
+    ├── Node.java
     └── Screenshot hasil/
-        ├── 1.png                           # Bukti eksekusi soal 2 (antrian)
-        └── 2.png                           # Bukti eksekusi soal 2 (riwayat)
+        ├── 1.png                           # Bukti eksekusi soal 2
+        └── 2.png                           # Bukti eksekusi soal 2
 ```
 
 ---
