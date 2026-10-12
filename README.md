@@ -37,3 +37,7 @@ Personal assigment 2/
 ## Bukti Eksekusi
 
 Bukti Eksekusi ada pada folder Screenshot hasil di dalam folder Java Soal 1 & Java Soal 2
+
+## Link Github
+
+link github : https://github.com/Ch4rleesS/TP2-W7-Data-Structures-and-Algorithm-Analysis
